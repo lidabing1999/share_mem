@@ -1,0 +1,7 @@
+# IDE配置文件
+.vscode/
+.vscode/*
+!.vscode/extensions.json
+
+# VSCode工作区文件
+*.code-workspace
